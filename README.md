@@ -9,6 +9,7 @@
 ### Atividade 1
 ---
 ### Atividade 2 
+<img width="1654" height="858" alt="image" src="https://github.com/user-attachments/assets/60aaa07c-376b-497b-8a23-e6e37bbf5aba" />
 
 **Explicação breve**
 
