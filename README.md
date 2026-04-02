@@ -25,6 +25,8 @@ A expressão regular que usamos nessa atividade filtra, reconhece um padrão e o
 ### Atividade 5
 ---
 ### Atividade 6
+<img width="746" height="563" alt="image" src="https://github.com/user-attachments/assets/7d61fe58-d7d4-4747-875d-85993e243b71" />
+
 
 **Por que o tokenizer da OpenAI quebra position em pos + ition?**
 
