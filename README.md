@@ -9,11 +9,9 @@
 ### Atividade 1
 ---
 ### Atividade 2 
-<img width="1654" height="858" alt="image" src="https://github.com/user-attachments/assets/60aaa07c-376b-497b-8a23-e6e37bbf5aba" />
-
 **Explicação breve**
-
-A expressão regular que usamos nessa atividade filtra, reconhece um padrão e o classifica em 5 blocos diferentes, como CEP, e-mail, número de telefone, CPF e RG. Separando os blocos com o operador `|`, a regex consegue reconhecer vários padrões diferentes no texto de uma vez.
+Nessa expressão, através do operador | (OU), essa regex é dividida em três blocos que servem para: achar nomes de variáveis, números e símbolos matemáticos. No exemplo `position = initial + rate * 60`, ela varre o texto procurando apenas o que importa (como position, o = e o 60). O resultado é uma lista limpa de tokens léxicos, já que os espaços em branco são naturalmente filtrados e ignorados.
+<img width="1654" height="858" alt="image" src="https://github.com/user-attachments/assets/60aaa07c-376b-497b-8a23-e6e37bbf5aba" />
 
 **Criar e experimentar regexp para reconhecer e-mail, CEP, CPF, RG, telefone, etc...**
 <img width="1631" height="595" alt="Exemplo" src="https://github.com/user-attachments/assets/271f7f0d-9c43-4d80-a9ba-c9c99840f654" />
