@@ -14,6 +14,9 @@
 
 A expressão regular que usamos nessa atividade filtra, reconhece um padrão e o classifica em 5 blocos diferentes, como CEP, e-mail, número de telefone, CPF e RG. Separando os blocos com o operador `|`, a regex consegue reconhecer vários padrões diferentes no texto de uma vez.
 
+**Criar e experimentar regexp para reconhecer e-mail, CEP, CPF, RG, telefone, etc...**
+<img width="1631" height="595" alt="Exemplo" src="https://github.com/user-attachments/assets/271f7f0d-9c43-4d80-a9ba-c9c99840f654" />
+
 ---
 ### Atividade 3
 ---
