@@ -7,6 +7,8 @@
 
 
 # Atividade 1
+<img width="571" height="370" alt="Screenshot 2026-04-03 at 00 37 55" src="https://github.com/user-attachments/assets/6ecc3cf6-7c2b-4931-a655-ba73f953d87d" />
+
 ---
 # Atividade 2 
 **Explicação breve**
