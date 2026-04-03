@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ScannerL
+comment1.params=caminhoArquivo
+comment1.target=java.util.List\ tokenizarLivro(java.lang.String)
+comment1.text=\r\n\ Le\ um\ arquivo\ de\ texto\ e\ retorna\ uma\ lista\ de\ tokens.\r\n
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

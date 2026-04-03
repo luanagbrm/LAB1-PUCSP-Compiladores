@@ -1,0 +1,4 @@
+O livro tem 68449 tokens. Quantos devem ser exibidos? 35
+
+Exibindo os primeiros 35 tokens:
+[Luís, Vaz, de, Camões, Os, Lusíadas, Canto, Primeiro, 1, As, armas, e, os, barões, assinalados, ,, Que, da, ocidental, praia, Lusitana, ,, Por, mares, nunca, de, antes, navegados, ,, Passaram, ainda, além, da, Taprobana, ,]

@@ -1,0 +1,4 @@
+O livro tem 68449 tokens. Quantos devem ser exibidos? 20
+
+Exibindo os primeiros 20 tokens:
+['Luís', 'Vaz', 'de', 'Camões', 'Os', 'Lusíadas', 'Canto', 'Primeiro', '1', 'As', 'armas', 'e', 'os', 'barões', 'assinalados', ',', 'Que', 'da', 'ocidental', 'praia']
