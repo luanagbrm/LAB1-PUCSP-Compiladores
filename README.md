@@ -57,6 +57,7 @@ Nessa expressão, através do operador | (OU), essa regex é dividida em três b
 ---
 
 ## Exercício 3 – Limpar espaços extras no CSV
+**Resultado:** [csv-limpo-sample.csv](https://github.com/luanagbrm/LAB1-PUCSP-Compiladores/blob/main/Atividade3/csv-limpo-sample.csv)
 
 **Arquivo:** `relatorio_dados_abertos_oferta_12021_18102021.csv` (23.464 linhas)
 
@@ -95,6 +96,7 @@ Nessa expressão, através do operador | (OU), essa regex é dividida em três b
 ---
 
 ## Exercício 4 – CSV para TSV
+**Resultado:** [csv-to-tsv-sample.tsv](https://github.com/luanagbrm/LAB1-PUCSP-Compiladores/blob/main/Atividade3/csv-to-tsv-sample.tsv)
 
 **Regex utilizada:** `;` → `\t`
 
@@ -108,6 +110,7 @@ Nessa expressão, através do operador | (OU), essa regex é dividida em três b
 ---
 
 ## Exercício 5 – Converter formato numérico BR → EN
+**Resultado:** [br-to-en-sample.csv](https://github.com/luanagbrm/LAB1-PUCSP-Compiladores/blob/main/Atividade3/br-to-en-sample.csv)
 
 ### Passo 1 – Remover ponto de milhar
 **Regex:** `(\d)\.(\d{3})` → `$1$2`
