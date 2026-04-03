@@ -136,7 +136,16 @@ Nessa expressão, através do operador | (OU), essa regex é dividida em três b
 ---
 # Atividade 4
 ---
-# Atividade 5
+# Atividade 5 - Automato finito com JFLAP
+
+##Reconhecer inteiros
+<img width="1078" height="1001" alt="Image" src="https://github.com/user-attachments/assets/22c03084-65e6-48ff-b81d-ea66d5ab7d35" />
+
+##Identificadores
+<img width="1028" height="970" alt="Image" src="https://github.com/user-attachments/assets/8f4acb25-9837-42e7-8400-8013d3f1f469" />
+
+##Ambiguidade
+![Image](https://github.com/user-attachments/assets/5520c48b-e51b-4256-8b6a-4be7091bf6e3)
 ---
 # Atividade 6
 <img width="746" height="563" alt="image" src="https://github.com/user-attachments/assets/7d61fe58-d7d4-4747-875d-85993e243b71" />
